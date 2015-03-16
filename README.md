@@ -8,7 +8,7 @@ Copy Number Variations, according to the tile coordinates of the reference genom
 ### Download Data Command
 	Download the Copy Number Variation data from Personal Genome Project via PGP 
 	public bucket on Google Cloud Storage 
-	(require gsutil, see https://cloud.google.com/storage/docs/gsutil_install),
+	(requires gsutil, see https://cloud.google.com/storage/docs/gsutil_install),
 	and the hg19 coordinates (split by path) from Curoverse.
 
 ```
