@@ -1,7 +1,7 @@
 CNV Tile
 ========
 
-CNV Tile is a command line tool for visualizing Copy Number Variation of human genomes.
+CNV Tile is a command line tool for visualizing Copy Number Variations of human genomes.
 It highlights the portions of 174 sample genomes from Personal Genome Project which have
 Copy Number Variations, according to the tile coordinates of the reference genome (hg19). 
 
