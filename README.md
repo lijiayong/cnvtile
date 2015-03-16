@@ -10,6 +10,7 @@ Copy Number Variations, according to the tile coordinates of the reference genom
 	public bucket on Google Cloud Storage 
 	(requires gsutil, see https://cloud.google.com/storage/docs/gsutil_install),
 	and the hg19 coordinates (split by path) from Curoverse.
+	(cnv data: 80MB, coordinates data: 456MB)
 
 ```
 name:
